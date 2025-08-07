@@ -20,8 +20,6 @@ All documents are saved locally, ensuring full privacy and long-term accessibili
 A quick look at key parts in action:  
 - ![](https://www.nisus.com/pro/images/MacBook@1x.png)  
 - ![](https://cdn.mos.cms.futurecdn.net/b9ae960315f349e1b09671606881f0f0.jpg)  
-- ![](https://example.com/placeholder3.png)  
-- ![](https://example.com/placeholder4.png)  
 
 ## 🎯 Key Features  
 ⚡️ Pro Writing Tools: Styles, TOC, bookmarks, revision tracking, and more.  
